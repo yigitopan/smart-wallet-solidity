@@ -1,0 +1,17 @@
+{
+    "name": "MDP Cat",
+    "description": "Introducing the Digital Pioneers' MDP Cat. MDP is our company, and we proudly call ourselves 'Digital Pioneers'. Get this NFT and join our journey. Buy them now and be part of the future.",
+    "image": "https://i.hizliresim.com/gyccucz.png",
+    "external_url": "https://mdp-company-website.com",
+    "attributes": [
+      {
+        "trait_type": "Species",
+        "value": "Cat"
+      },
+      {
+        "trait_type": "Collection",
+        "value": "MDP Genesis"
+      }
+    ]
+  }
+  
